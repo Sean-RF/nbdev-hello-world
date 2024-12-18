@@ -58,10 +58,10 @@ can find package manager specific guidelines on
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
+amazingly, this package can compute factorials!
 
 ``` python
-1+1
+factorial(4)
 ```
 
-    2
+    24
